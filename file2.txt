@@ -1,0 +1,16 @@
+git clone url github 
+git add 
+git commit -m"initial commit "
+git push 
+git pull 
+git status -s
+git diff --stages 
+git stash
+git stash list 
+git stash show stash@(0)
+git stash drop stash@(0)
+git stash apply stash@(0)
+git restore file.txt
+git reset file.txt 
+git log 
+git show HEAD
